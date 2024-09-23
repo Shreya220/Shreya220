@@ -39,14 +39,6 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://instagram.com/shreyayayaya.s_" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="shreyayayaya.s_"
-      height="30"
-      width="40"
-  /></a>
   <a href="https://www.codechef.com/users/cu_21bcs3230" target="blank"
     ><img
       align="center"
