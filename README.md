@@ -1,217 +1,69 @@
-<!-- Bio -->
-# Hi there 👋
+# Hi, I'm Shreya 👋
 
-- 🔭 I’m currently working on Web Development and front end application development.
-- 🌱 I’m currently learning DSA/ Web Development.
-- 👯 I’m looking to collaborate on projects involving UI/UX.
-- 🤔 I’m looking for help with enhancing my knowledge and skills in development.
-- 📫 How to reach me: singhshreya300304@gmail.com
-- 😄 Pronouns: She/Her
+### Software Engineer | Java • Backend Development • Problem Solving
+
+I'm a Software Engineer focused on building reliable and maintainable applications. I'm currently strengthening my backend development skills with **Java, Spring Boot, REST APIs, SQL, and system design fundamentals**, while continuously improving my problem-solving skills through DSA.
+
+- 💻 Working on **Java and backend development**
+- 🌱 Currently learning **Spring Boot, REST APIs, and backend engineering concepts**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🚀 Building projects to deepen my understanding of real-world software development
+- 📫 Reach me at **singhshreya300304@gmail.com**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shreya220&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🛠️ Tech Stack
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://twitter.com/shreyasingh2203" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="shreyasingh2203"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.linkedin.com/in/shreya-singh-300304s/" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="shreya singh"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://stackoverflow.com/users/25116996" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-      alt="25116996"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.codechef.com/users/cu_21bcs3230" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-      alt="cu_21bcs3230"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.hackerrank.com/singhvanshika221" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="singhvanshika221"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.leetcode.com/singhvanshika2203" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="singhvanshika2203"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://auth.geeksforgeeks.org/user/singhvanspjxx" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-      alt="singhvanspjxx"
-      height="30"
-      width="40"
-  /></a>
-</p>
+### Languages
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 💻 Tech Stack:
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-      alt="flutter"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-     <img 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-       alt="linux" 
-       width="40" 
-       height="40"
-       />
-   </a>
-</p>
+### Backend & Databases
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shreya220&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&no-frame=false&no-bg=true&margin-w=4)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shreya220&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya220&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shreya220&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+### Web
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+> I'm currently working on strengthening and documenting my projects. More updates coming soon.
 
 <!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shreya220&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+Once the repositories are ready, replace the text above with something like:
+
+### 🔹 Project Name
+
+Short description explaining what the project does and the problem it solves.
+
+**Tech:** Java • Spring Boot • MySQL • REST APIs
+
+[Repository →](YOUR_REPOSITORY_URL)
 -->
 
+---
 
+## 🤝 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shreya_Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreya-singh-300304s/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/singhvanshika2203)
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhshreya300304@gmail.com)
