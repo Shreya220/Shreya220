@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with enhancing my knowledge and skills in development.
 - 📫 How to reach me: singhshreya300304@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love music (specially KPOP) and reading books.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shreya220&icon=0&color=0)](https://visitcount.itsvg.in)
